@@ -1,0 +1,1 @@
+rclone rcd --rc-web-gui --rc-web-gui-force-update
